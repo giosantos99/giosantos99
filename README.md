@@ -30,6 +30,6 @@ Sou **Desenvolvedora Front-End** com mais de 5 anos de experiência no desenvolv
 ---
 
 ### 📫 Como me encontrar
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/giovanna-santos-souza/)](https://www.linkedin.com/in/giovanna-santos-souza/)
+- 💼 **LinkedIn:** [linkedin.com/in/giovanna-santos-souza](https://www.linkedin.com/in/giovanna-santos-souza/)
 - ✉️ **E-mail:** giovanna.santos.souza99@gmail.com
 - ⚡ **Portfólio:** [https://giovanna-santos.vercel.app/](https://giovanna-santos.vercel.app/)
