@@ -1,9 +1,9 @@
 # Olá, sou a Giovanna! 👋
 
 ### 👩‍💻 Sobre mim
-Sou **Desenvolvedora Front-End** com mais de 5 anos de experiência no desenvolvimento de aplicações web escaláveis, responsivas e de alta performance. Especialista no ecossistema **Vue.js e Quasar Framework**, atuo desde a arquitetura de componentes até a integração de APIs complexas e otimização de performance.
+Sou **Desenvolvedora Front-End** com mais de 5 anos de experiência no desenvolvimento de aplicações web escaláveis, responsivas e de alta performance. Especialista no ecossistema **React.js, Vue.js e Quasar Framework**, atuo desde a arquitetura de componentes até a integração de APIs complexas e otimização de performance.
 
-- 🛠️ **Stack principal:** Vue 3, TypeScript, JavaScript, Quasar Framework, React.js, Pinia / Vuex, Node.js, Express.js, Internacionalização (i18n).
+- 🛠️ **Stack principal:** Vue 3, TypeScript, JavaScript, Quasar Framework, React.js, Redux / Pinia / Vuex, Node.js, Express.js, Internacionalização (i18n).
 - 🎨 **UI & Estilização:** HTML5, Pug.js, CSS3, SASS/SCSS/LESS, Bootstrap, Tailwind, Quasar Framework, Vuetify, Design Systems e Acessibilidade.
 - ⚙️ **Ferramentas & Testes:** Git, GitLab, GitHub Actions, Vitest, Vite.
 - 💼 **Experiência:** Construção de soluções corporativas e módulos complexos para grandes marcas (como Mercedes-Benz, SESI e SENAI).
